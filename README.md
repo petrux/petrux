@@ -1,4 +1,4 @@
-### Hi there 👋, I am Giulio "petrux" Petrucci
+###  👋 Hi there, I am Giulio "petrux" Petrucci
 
 (coming soon...)
 
