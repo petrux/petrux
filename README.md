@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, I am Giulio Petrucci, or "petrux"
+
+(coming soon...)
 
 <!--
 **petrux/petrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
