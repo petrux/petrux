@@ -3,4 +3,4 @@
 👨‍💻 Software Engineer at Google Zürich 🇨🇭  
 👨‍🎓 PhD in Computer Science from University of Trento 🇮🇹  
 🤓 Passionate about Sotware Engineering, Machine Learning and Linguistics  
-😎 When not working 🏊‍♂️ 🏃‍♂️ 🎸 📖  
+😎 When not working 🏊‍♂️ 🚴 🏃‍♂️ 🎸 📖  
