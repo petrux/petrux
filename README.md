@@ -1,8 +1,7 @@
-###  👋 Hi there, I am Giulio "petrux" Petrucci
+###  👋 Hi there, I am Giulio `petrux` Petrucci
 
-👨‍💻 Software Engineer at Google Zürich 🇨🇭  
-👨‍🎓 PhD in Computer Science from University of Trento 🇮🇹  
-👨‍🎓 M.Sc. in Enginnering from Polytechnic University of Le Marche 🇮🇹  
-🤓 Passionate about Software Engineering and Machine Learning  
-😎 When not working 🚴 🏊‍♂️ 🏃‍♂️ 🤸‍♂️ 🥾 🎸 📖 🎙
+👨‍💻 Software Engineer @ Google Zürich 🇨🇭  
+🎓 PhD in CS (UniTN 🇮🇹) & M.Sc. in Engineering (UnivPM 🇮🇹)  
+🤓 Passionate about software sngineering and machine learning  
+😎 When offline: 🚴🏊‍♂️🏃‍♂️🤸‍♂️🥾🏐🎸📖🎙  
 📜 Always willing to learn
